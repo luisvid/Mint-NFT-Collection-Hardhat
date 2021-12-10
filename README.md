@@ -82,7 +82,11 @@ $ npx hardhat verify YOUR_CONTRACT_ADDRESS --network rinkeby
 $ npx hardhat verify 0x792b1027A50fd876b99aC662A8De98e53ee263d1 --network rinkeby 
 ```
 
-OJO: no funciona con los las url y apikey de .env, hay que hardcodear los valores
+NOTE: it does not work with the url and apikey values from .env, you have to hardcode the values
 
-Verificado
+verified contract:
 https://rinkeby.etherscan.io/address/0x792b1027a50fd876b99ac662a8de98e53ee263d1#code
+
+
+Have fun! 😀 Let's #BUIDL 🚀
+![BUIDL_Logo_White](https://user-images.githubusercontent.com/330947/145647135-a6a42001-cab7-4814-a8b6-988c460be582.png)
