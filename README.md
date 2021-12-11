@@ -83,6 +83,7 @@ $ npx hardhat verify 0x792b1027A50fd876b99aC662A8De98e53ee263d1 --network rinkeb
 ```
 
 NOTE: it does not work with the url and apikey values from .env, you have to hardcode the values
+NOTE2: Rinkeby faucet not working, try this -> https://faucets.chain.link/rinkeby
 
 verified contract:
 https://rinkeby.etherscan.io/address/0x792b1027a50fd876b99ac662a8de98e53ee263d1#code
