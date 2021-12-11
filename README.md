@@ -56,9 +56,10 @@ $ Contract deployed to: 0x792b1027A50fd876b99aC662A8De98e53ee263d1
 ```
 
 ### Chek NFTs Deployed in Rarible
-
 https://rinkeby.rarible.com/collection/0x792b1027a50fd876b99ac662a8de98e53ee263d1
 
+### Chek NFTs Deployed at OpenSea tesnet
+https://testnets.opensea.io/collection/adorablenft-v2
 
 ### Verify contract on Etherscan.
 
